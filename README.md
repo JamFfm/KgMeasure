@@ -12,3 +12,4 @@ The main idea is from this german side https://www.heise.de/select/ct/2018/2/151
 The Git repository is https://github.com/jamct/PersonalScale
 
 
+
