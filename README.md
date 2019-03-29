@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/CBPi%203%20addin-functionable-green.svg)  ![](https://img.shields.io/github/license/JamFfm/KgMeasure.svg?style=flat) ![](https://img.shields.io/github/last-commit/JamFfm/KgMeasure.svg?style=flat) ![](https://img.shields.io/github/release-pre/JamFfm/KgMeasure.svg?style=flat) ![](https://img.shields.io/github/downloads/JamFfm/KgMeasure/total.svg)
+
+
 # KgMeasure
 addon for CraftbeerPi3 to Measure the weight of a kettle
 
