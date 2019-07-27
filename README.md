@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/CBPi%20addin-development_for V3-orange.svg)  ![](https://img.shields.io/github/license/JamFfm/KgMeasure.svg?style=flat) ![](https://img.shields.io/github/last-commit/JamFfm/KgMeasure.svg?style=flat) ![](https://img.shields.io/github/release-pre/JamFfm/KgMeasure.svg?style=flat)
+![](https://img.shields.io/badge/CBPi%20addin-development_for_V3-orange.svg)  ![](https://img.shields.io/github/license/JamFfm/KgMeasure.svg?style=flat) ![](https://img.shields.io/github/last-commit/JamFfm/KgMeasure.svg?style=flat) ![](https://img.shields.io/github/release-pre/JamFfm/KgMeasure.svg?style=flat)
 
 
 # KgMeasure
